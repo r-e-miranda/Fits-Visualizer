@@ -1,3 +1,4 @@
 # Fits-Visualizer
 Fits data visualization with support for images and tables.
-WIP
+Just starting this project, so WIP :p
+
